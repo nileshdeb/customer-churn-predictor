@@ -46,16 +46,11 @@ Interactive features of the deployed Streamlit app:
 
 ###  Screenshot
 
-![Web App Screenshot](./79d79520-a54f-4f79-8c95-25d34b5faef6.png)
+![Web App Screenshot](https://github.com/nileshdeb/customer-churn-predictor/blob/main/Churn_prediction_screenshot.png)
 
 ---
 
 ##  Live App (Streamlit Cloud)
 
-🔗 [View Live Demo](https://your-streamlit-cloud-link.streamlit.app)  
-> Replace with your actual Streamlit Cloud URL after deployment.
-
----
-
-## 🗂️ Project Structure
+ [View Live Demo]([https://github.com/nileshdeb/customer-churn-predictor/blob/main/Churn_prediction_screenshot.png](https://customer-churn-predictor-asysszhf5nnyvjym7tcpz5.streamlit.app/))  
 
