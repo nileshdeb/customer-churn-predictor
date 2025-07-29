@@ -52,5 +52,5 @@ Interactive features of the deployed Streamlit app:
 
 ##  Live App (Streamlit Cloud)
 
- [View Live Demo]((https://customer-churn-predictor-asysszhf5nnyvjym7tcpz5.streamlit.app/))  
+ [View Live Demo](https://customer-churn-predictor-asysszhf5nnyvjym7tcpz5.streamlit.app/)  
 
